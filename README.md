@@ -1,16 +1,24 @@
-# Projektmall
+# Quiz
+
+Nyckelord: Filhantering, stränghantering, datastrukturer
 
 ## Uppgiften
 
 ### Lydelse
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac tincidunt justo. Vivamus eget malesuada felis. Etiam euismod mollis lobortis. Etiam at pellentesque diam. Donec suscipit nulla arcu, consequat iaculis neque maximus non. Proin laoreet tortor nulla, in pharetra lorem laoreet id. Vestibulum condimentum, neque vel suscipit tempor, felis erat consectetur est, a bibendum metus enim et odio. Vivamus laoreet eu eros id efficitur. Nunc ac urna gravida, dignissim libero vel, pellentesque dui. Maecenas arcu enim, venenatis eu purus id, condimentum posuere lorem. Nunc pharetra, elit at convallis ultricies, nunc risus fermentum nisl, sit amet molestie nisl urna eu arcu. Nunc molestie elit ullamcorper nisl pharetra dignissim. Praesent pretium blandit ornare.
+Skriv ett program som hanterar quizfrågor. Programmet ska ställa frågor, spara svaren samt sammanställa resultat.
 
-### Exempel
+Du kommer ha en fil med frågor och rätta svar (du skriver denna fil själv).
 
-Duis lobortis porta orci, et scelerisque diam ornare nec. Pellentesque eget suscipit ligula, et ultrices tortor. Ut congue, tellus in rutrum interdum, massa est convallis eros, at blandit quam augue vitae libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed nisi libero, pretium vel tincidunt mollis, accumsan at eros. Nunc eu congue ex, quis sodales enim. Aliquam a sem hendrerit, vehicula enim ut, maximus risus. Aenean ac lobortis justo. Aenean molestie vehicula dolor, at ullamcorper nisi eleifend a. Quisque egestas est vulputate, sagittis leo id, fermentum ante. Pellentesque cursus nulla nibh, id luctus diam laoreet in.
+Om så önskas kan du spara ner statistiken på fil också från tidigare körningar av programmet.
 
-### Krav för olika betyg
+Programmet kan se ut såhär:
+
+![image](https://user-images.githubusercontent.com/101513815/224581319-dbb585d5-d71c-4729-bc45-e27114891fb1.png)
+
+Frågor med svarsalternativ ska ligga på frågefilen. Formatet på filen får du bestämma själv, alltså hur filen ser ut. Det ska vara enkelt att lägga in nya frågor samt ta bort frågor från filen.
+
+Uppgiften kan uppnå en bedömning på A-nivå men är i grunden på C. Uppgiften kräver att du lär dig filhantering och eventuellt klasser.
 
 ## Dokumentation & Planering
 
@@ -31,3 +39,7 @@ I första stadiet av projektet bör du även skissa upp ett flödesschema i för
 ## Författare
 
 Niclas Lund
+
+## Disclaimer
+
+Uppgiften (eller inspiration till den) är ärligt stulen från EECS-skolan (gamla CSC) och kursen DD1314.
