@@ -1,0 +1,3 @@
+Vilken stad ligger längst söderut?;Oslo;Stockholm;Helsingfors;2
+Vilket år blev Sverige medlem i EU?;1991;1995;1998;2
+När dog Bob Marley?;1981;1977;1971;1
